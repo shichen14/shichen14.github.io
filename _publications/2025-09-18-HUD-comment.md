@@ -3,7 +3,7 @@ title: "The Many Misspellings of Albuquerque: A Comment on 'Sorting or Steering:
 collection: publications
 category: manuscripts
 permalink: /publication/2025-09-18-HUD-comment
-excerpt: '**Revise and resubmit, Journal of Political Economy.** This comment revisits the analysis in Christensen and Timmins (2022). We identify two critical errors used in the original analysis, one with the data and the other with coding. When either error is corrected several major results in the paper change, either in statistical significance or in effect size.'
+excerpt: '**Revise and resubmit, Journal of Political Economy.**  *with Areez Gangji, Sunny Karim, Anthony McCanny and Matthew D. Webb*  This comment revisits the analysis in Christensen and Timmins (2022). We identify two critical errors used in the original analysis, one with the data and the other with coding. When either error is corrected several major results in the paper change, either in statistical significance or in effect size.'
 date: 2024-04-01
 venue: 
 slidesurl: 
