@@ -1,5 +1,5 @@
 ---
-title: "The Hidden Interaction: Household Consumption and Advance Information about Future Income'"
+title: "The Hidden Interaction: Household Consumption and Advance Information about Future Income"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-10-02-INFO-consumption
