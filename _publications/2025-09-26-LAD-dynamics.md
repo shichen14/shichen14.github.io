@@ -1,5 +1,5 @@
 ---
-title: "The Evolution of Canadian Income Dynamics: Evidence from Canadian Longitudinal Tax Records'"
+title: "The Evolution of Canadian Income Dynamics: Evidence from Canadian Longitudinal Tax Records"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-09-26-LAD-dynamics
