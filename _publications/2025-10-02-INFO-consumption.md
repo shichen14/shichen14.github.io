@@ -3,7 +3,7 @@ title: "The Hidden Interaction: Household Consumption and Advance Information ab
 collection: publications
 category: manuscripts
 permalink: /publication/2025-10-02-INFO-consumption
-excerpt: '**[Job Market Paper -- Draft Available Soon!]**<br />We study how advance information about future labour income affects current household consumption. Using data from the Panel Study of Income Dynamics, we find that working households adjust their current consumption in anticipation of future persistent income changes, which confirms their undocumented access to advance information. We build a consumption-saving model to map observed consumption response patterns into the unobserved probability of receiving future information ahead of time. Our results uncover the dynamic consumption response to income shocks by informed households and confirm the existence of bias in conventional consumption insurance estimators.'
+excerpt: '**[Job Market Paper -- <a href="https://shichen14.github.io/files/shichen_jmp_information.pdf">Link to paper</a>]**<br />We study how advance information about future labour income affects current household consumption. Using data from the Panel Study of Income Dynamics, we find that working households adjust their current consumption in anticipation of future persistent income changes, which confirms their undocumented access to advance information. We build a consumption-saving model to map observed consumption response patterns into the unobserved probability of receiving future information ahead of time. Our results uncover the dynamic consumption response to income shocks by informed households and confirm the existence of bias in conventional consumption insurance estimators.'
 date: 2025-10-02
 venue: 
 slidesurl: 
