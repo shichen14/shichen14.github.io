@@ -3,7 +3,7 @@ title: "Mass Reproducibility and Replicability: A New Hope"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-09-18-MASS-replication
-excerpt: '*with Abel Brodeur, Derek Mikola, Nikolai Cook, et al.*<br>**Revise and resubmit, Nature.**<br />This study pushes our understanding of research reliability by reproducing and replicating claims from 110 papers in leading economic and political science journals. The analysis involves computational reproducibility checks and robustness assessments.'
+excerpt: '*with Abel Brodeur, Derek Mikola, Nikolai Cook, et al.*<br>**Revise and resubmit, Nature. [<a href="https://www.econstor.eu/bitstream/10419/289437/1/I4R-DP107.pdf">Link to paper</a>]**<br />This study pushes our understanding of research reliability by reproducing and replicating claims from 110 papers in leading economic and political science journals. The analysis involves computational reproducibility checks and robustness assessments.'
 date: 2024-03-01
 venue: 
 slidesurl: 
