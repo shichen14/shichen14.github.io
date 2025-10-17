@@ -3,7 +3,7 @@ title: "The Evolution of Canadian Income Dynamics: Evidence from Canadian Longit
 collection: publications
 category: manuscripts
 permalink: /publication/2025-09-26-LAD-dynamics
-excerpt: '*with Brant Abbott*<br>**[Draft Available Soon!]**<br />What does income dynamics look like for Canadian-born workers since the 1980s? We address this question by estimating a flexible nonlinear income model using panel data constructed from Canadian administrative tax records. A novel feature of our approach is the introduction of a proxy variable for post-secondary education attainments imputed from historical records of education deductions and tax credits.'
+excerpt: '*with Brant Abbott*<br>**[Preliminary Draft -- <a href="https://shichen14.github.io/files/can_income_dynamics.pdf">Link to paper</a>]**<br />What does income dynamics look like for Canadian-born workers since the 1980s? We address this question by estimating a flexible nonlinear income model using panel data constructed from Canadian administrative tax records. A novel feature of our approach is the introduction of a proxy variable for post-secondary education attainments imputed from historical records of education deductions and tax credits.'
 date: 2025-09-26
 venue: 
 slidesurl: 
