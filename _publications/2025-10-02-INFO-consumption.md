@@ -12,6 +12,22 @@ bibtexurl:
 citation:
 ---
 
-**Abstract**
+## Abstract
 
-We study how advance information about future labour income affects current household consumption. Using data from the Panel Study of Income Dynamics, we find that working households adjust their current consumption in anticipation of future persistent income changes. Their positive consumption response indirectly confirms households’ undocumented access to advance information. We construct a consumption-saving model and use it to map observed consumption response patterns into the unobserved probability of receiving future information ahead of time. Our estimation results suggest this probability has a baseline value and increases with current persistent income. Moreover, the consumption response to advance information is asymmetric and depends on the type of income change expected. We find that the conventional covariance-based estimator of consumption insurance against persistent income shocks exhibits a downward bias when advance information is ignored. Finally, we show that consumption responses to persistent shocks are dynamic for informed households, with about 70\% of the total adjustment occurring in the period when information was first received.
+We study how advance information about future labour income affects current household
+consumption. Using data from the Panel Study of Income Dynamics, we find that working
+households adjust their current consumption in anticipation of future persistent income changes.
+Their positive consumption response indirectly confirms households’ undocumented access to
+advance information. We construct a consumption-saving model and use it to map observed
+consumption response patterns into the unobserved probability of receiving future information
+ahead of time. Our estimation results suggest this probability has a baseline value and increases
+with current persistent income. Moreover, the consumption response to advance information
+is asymmetric and depends on the type of income change expected. We find that households
+with access to advance information are better self-insured against persistent income shocks than
+those without such information. Their consumption responses to persistent shocks are dynamic,
+with about 70% of the total adjustment occurring in the period when the information is first
+received. Finally, we show that the conventional covariance-based estimators of consumption
+insurance exhibit sizeable biases when advance information is ignored.
+
+## Link to Paper
+Access latest draft <a href="https://shichen14.github.io/files/shichen_jmp_information.pdf">here</a>.
