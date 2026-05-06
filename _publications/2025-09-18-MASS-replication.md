@@ -3,7 +3,7 @@ title: "Reproducibility and Robustness of Economics and Political Science Resear
 collection: publications
 category: manuscripts
 permalink: /publication/2025-09-18-MASS-replication
-excerpt: '*with Abel Brodeur, Derek Mikola, Nikolai Cook, et al.*<br>**Nature, April 2026, Vol. 652: p. 151–156.**<br>**[<a href="https://www.nature.com/articles/s41586-026-10251-x">Link to paper</a>] [<a href="https://zenodo.org/records/17792605">Link to replication pkg</a>]**<br>Previously circulated as "Mass Reproducibility and Replicability: A New Hope".<br />This study pushes our understanding of research reliability by reproducing and replicating claims from 110 papers in leading economic and political science journals. The analysis involves computational reproducibility checks and robustness assessments.'
+excerpt: '*with Abel Brodeur, Derek Mikola, Nikolai Cook, et al.*<br>**Nature, April 2026, Vol. 652: p. 151–156.**<br>**[<a href="https://www.nature.com/articles/s41586-026-10251-x">Link to publication</a>] [<a href="https://ideas.repec.org/p/zbw/i4rdps/287.html">Link to working paper</a>] [<a href="https://zenodo.org/records/17792605">Link to replication pkg</a>]**<br>Previously circulated as "Mass Reproducibility and Replicability: A New Hope".<br />This study pushes our understanding of research reliability by reproducing and replicating claims from 110 papers in leading economic and political science journals. The analysis involves computational reproducibility checks and robustness assessments.'
 date: 2024-03-01
 venue: 
 slidesurl: 
