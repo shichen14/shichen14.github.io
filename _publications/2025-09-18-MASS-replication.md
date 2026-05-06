@@ -1,9 +1,9 @@
 ---
-title: "Mass Reproducibility and Replicability: A New Hope"
+title: "Reproducibility and Robustness of Economics and Political Science Research"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-09-18-MASS-replication
-excerpt: '*with Abel Brodeur, Derek Mikola, Nikolai Cook, et al.*<br>**Revise and resubmit, Nature.**<br>**[<a href="https://www.econstor.eu/bitstream/10419/289437/1/I4R-DP107.pdf">Link to paper</a>]**<br />This study pushes our understanding of research reliability by reproducing and replicating claims from 110 papers in leading economic and political science journals. The analysis involves computational reproducibility checks and robustness assessments.'
+excerpt: '*with Abel Brodeur, Derek Mikola, Nikolai Cook, et al.*<br>**Nature, April 2026, Vol. 652: p. 151–156.**<br>**[<a href="https://www.nature.com/articles/s41586-026-10251-x">Link to paper</a>] [<a href="https://zenodo.org/records/17792605">Link to replication pkg</a>]**<br>Previously circulated as "Mass Reproducibility and Replicability: A New Hope".<br />This study pushes our understanding of research reliability by reproducing and replicating claims from 110 papers in leading economic and political science journals. The analysis involves computational reproducibility checks and robustness assessments.'
 date: 2024-03-01
 venue: 
 slidesurl: 
@@ -14,7 +14,10 @@ citation:
 
 ## Abstract
 
-This study pushes our understanding of research reliability by reproducing and replicating claims from 110 papers in leading economic and political science journals. The analysis involves computational reproducibility checks and robustness assessments. It reveals several patterns. First, we uncover a high rate of fully computationally reproducible results (over 85\%). Second, excluding minor issues like missing packages or broken pathways, we uncover coding errors for about 25\% of studies, with some studies containing multiple errors. Third, we test the robustness of the results to 5,511 re-analyses. We find a robustness reproducibility of about 70\%. Robustness reproducibility rates are relatively higher for re-analyses that introduce new data and lower for re-analyses that change the sample or the definition of the dependent variable. Fourth, 52\% of re-analysis effect size estimates are smaller than the original published estimates and the average statistical significance of a re-analysis is 77\% of the original. Lastly, we rely on six teams of researchers working independently to answer eight additional research questions on the determinants of robustness reproducibility. Most teams find a negative relationship between replicators’ experience and reproducibility, while finding no relationship between reproducibility and the provision of intermediate or even raw data combined with the necessary cleaning codes.
+This systematic and large-scale reproduction effort tests the reproducibility and robustness of economics and political science. We reproduced original analyses and conducted robustness checks of 110 articles recently published in leading economics and political science journals (all of which have mandatory data and code sharing policies). We found that over 85% of published claims were computationally reproducible. In robustness checks, our re-analyses led to 72% of statistically significant estimates to remain significant and in the same direction, and the median reproduced effect size is (nearly) the same as the originally published effect size (that is, 99% of the published effect size). Additionally, six independent research teams examined 12 pre-specified hypotheses about determinants of robustness. Research teams with more experience found lower levels of robustness, and robustness correlated with neither author characteristics nor data availability.
 
 ## Link to Paper
-Access working paper <a href="https://www.econstor.eu/bitstream/10419/289437/1/I4R-DP107.pdf">here</a>.
+Access published version at <a href="https://www.nature.com/articles/s41586-026-10251-x">Nature</a> (subscription required).<br />Access working paper version <a href="https://ideas.repec.org/p/zbw/i4rdps/287.html">here</a>.
+
+## Link to Replication Package
+Access replication package <a href="https://zenodo.org/records/17792605">here</a>.
